@@ -1,6 +1,6 @@
 {
-    "name": "stackbit-libris-theme",
-    "description": "Stackbit Libris Theme",
+    "name": "bgoonz-blog",
+    "description": "bgoonz-blog",
     "version": "0.0.1",
     "license": "MIT",
     "scripts": {
@@ -21,6 +21,7 @@
         "gatsby-plugin-typescript": "2.4.4",
         "gatsby-source-filesystem": "2.3.10",
         "gatsby-transformer-remark": "2.8.14",
+        "gatsby-plugin-disqus": "^1.2.3",
         "js-yaml": "3.12.2",
         "lodash": "4.17.11",
         "marked": "0.6.1",
@@ -34,7 +35,7 @@
         "react-html-parser": "2.0.2",
         "react-script-tag": "1.1.2",
         "rehype-react": "3.0.2",
-        "sprintf-js": "1.1.2"
+        "sprintf-js": "1.1.2",
+        "pdfcrowd":"5.4.0"
     }
-    
 }

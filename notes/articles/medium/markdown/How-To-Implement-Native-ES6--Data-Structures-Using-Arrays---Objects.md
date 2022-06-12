@@ -1,12 +1,12 @@
 # How To Implement Native(ES6) Data Structures Using Arrays & Objects
 
-Smart data structures and dumb code works better than the other way around -“Eric S. Raymond”
+Smart data structures and dumb code works better than the other way around -"Eric S. Raymond"
 
 ---
 
 ### How To Implement Native(ES6) Data Structures Using Arrays & Objects
 
-<a href="https://www.azquotes.com/quote/636065?ref=data-structures" class="markup--anchor markup--p-anchor">Smart data structures and dumb code works better than the other way around</a> <a href="https://twitter.com/esrtweet?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" class="markup--anchor markup--p-anchor"><strong>-“Eric S. Raymond”</strong></a>
+<a href="https://www.azquotes.com/quote/636065?ref=data-structures" class="markup--anchor markup--p-anchor">Smart data structures and dumb code works better than the other way around</a> <a href="https://twitter.com/esrtweet?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" class="markup--anchor markup--p-anchor"><strong>-"Eric S. Raymond"</strong></a>
 
 <figure><img src="https://cdn-images-1.medium.com/max/600/0*ZBBOzoXj5SgXtZb7.png" alt="https://data-flair.training/blogs/javascript-data-structures/" class="graf-image" /><figcaption><a href="https://data-flair.training/blogs/javascript-data-structures/" class="markup--anchor markup--figure-anchor">https://data-flair.training/blogs/javascript-data-structures/</a></figcaption></figure>#### *Abstract Data type (ADT) is a type (or class) for objects whose behavior is*
 
@@ -40,11 +40,13 @@ Further Reading:
 
 ### For more content… go to :
 
-<a href="https://github.com/bgoonz" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://github.com/bgoonz"><strong>bgoonz - Overview</strong><br />
+<a href="https://github.com/bgoonz" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://github.com/bgoonz"><strong>bgoonz - Overview</strong>
+<br/>
+
 <em>Web Developer, Electrical Engineer https://bryanguner.medium.com/ https://portfolio42.netlify.app/…</em>github.com</a><a href="https://github.com/bgoonz" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
 
 By <a href="https://medium.com/@bryanguner" class="p-author h-card">Bryan Guner</a> on [May 15, 2021](https://medium.com/p/ce953b9f6a07).
 
 <a href="https://medium.com/@bryanguner/how-to-implement-native-es6-data-structures-using-arrays-objects-ce953b9f6a07" class="p-canonical">Canonical link</a>
 
-Exported from [Medium](https://medium.com) on August 31, 2021.
+ August 31, 2021.

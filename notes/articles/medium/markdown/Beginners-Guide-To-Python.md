@@ -12,29 +12,43 @@ My favorite language for maintainability is Python. It has simple, clean syntax,
 
 #### Article on basic web development setup… it is geared towards web but VSCode is an incredibly versatile editor and this stack really could suit just about anyone working in the field of computer science.
 
-<a href="https://bryanguner.medium.com/a-list-of-all-of-my-articles-to-link-to-future-posts-1f6f88ebdf5b" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://bryanguner.medium.com/a-list-of-all-of-my-articles-to-link-to-future-posts-1f6f88ebdf5b"><strong>A list of all of my articles to link to future posts</strong><br />
-<em>You should probably skip this one… seriously it's just for internal use!</em>bryanguner.medium.com</a><a href="https://bryanguner.medium.com/a-list-of-all-of-my-articles-to-link-to-future-posts-1f6f88ebdf5b" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
+<strong>A list of all of my articles to link to future posts</strong>
+<br/>
 
-<a href="https://golden-lobe-519.notion.site/PYTHON-cb857bd3fa4b4940928842a94dce856d" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://golden-lobe-519.notion.site/PYTHON-cb857bd3fa4b4940928842a94dce856d"><strong>PYTHON</strong><br />
+<em>You should probably skip this one… seriously it's just for internal use!</em><a href="https://bryanguner.medium.com/a-list-of-all-of-my-articles-to-link-to-future-posts-1f6f88ebdf5b" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
+
+<a href="https://golden-lobe-519.notion.site/PYTHON-cb857bd3fa4b4940928842a94dce856d" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://golden-lobe-519.notion.site/PYTHON-cb857bd3fa4b4940928842a94dce856d"><strong>PYTHON</strong>
+<br/>
+
 <em>Keywords: \*\*\*and del for is raise assert elif from lambda return break else global not try class except if or while…</em>golden-lobe-519.notion.site</a><a href="https://golden-lobe-519.notion.site/PYTHON-cb857bd3fa4b4940928842a94dce856d" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
 
 <figure><img src="https://cdn-images-1.medium.com/max/1200/1*per3wJrNyChrgJtUBySo1Q.png" class="graf-image" /></figure>
 
-<a href="https://levelup.gitconnected.com/basic-web-development-environment-setup-9f36c3f15afe" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://levelup.gitconnected.com/basic-web-development-environment-setup-9f36c3f15afe"><strong>Basic Web Development Environment Setup</strong><br />
+<a href="https://levelup.gitconnected.com/basic-web-development-environment-setup-9f36c3f15afe" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://levelup.gitconnected.com/basic-web-development-environment-setup-9f36c3f15afe"><strong>Basic Web Development Environment Setup</strong>
+<br/>
+
 <em>Windows Subsystem for Linux (WSL) and Ubuntu</em>levelup.gitconnected.com</a><a href="https://levelup.gitconnected.com/basic-web-development-environment-setup-9f36c3f15afe" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
 
 ### Related Articles:
 
-<a href="https://levelup.gitconnected.com/beginner-python-problems-solutions-dd631e9c3a9f" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://levelup.gitconnected.com/beginner-python-problems-solutions-dd631e9c3a9f"><strong>Python Problems &amp; Solutions For Beginners</strong><br />
+<a href="https://levelup.gitconnected.com/beginner-python-problems-solutions-dd631e9c3a9f" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://levelup.gitconnected.com/beginner-python-problems-solutions-dd631e9c3a9f"><strong>Python Problems &amp; Solutions For Beginners</strong>
+<br/>
+
 <em>Introduction to python taught through example problems. Solutions are included in embedded repl.it at the bottom of…</em>levelup.gitconnected.com</a><a href="https://levelup.gitconnected.com/beginner-python-problems-solutions-dd631e9c3a9f" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
 
-<a href="https://medium.com/webdevhub/notes-i-wish-i-had-when-i-started-learning-python-16ce4244be12" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://medium.com/webdevhub/notes-i-wish-i-had-when-i-started-learning-python-16ce4244be12"><strong>Notes I Wish I Had When I Started Learning Python</strong><br />
+<a href="https://medium.com/webdevhub/notes-i-wish-i-had-when-i-started-learning-python-16ce4244be12" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://medium.com/webdevhub/notes-i-wish-i-had-when-i-started-learning-python-16ce4244be12"><strong>Notes I Wish I Had When I Started Learning Python</strong>
+<br/>
+
 <em>Plus resources for learning data structures and algorithms in python at the bottom of this article!</em>medium.com</a><a href="https://medium.com/webdevhub/notes-i-wish-i-had-when-i-started-learning-python-16ce4244be12" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
 
-<a href="https://bryanguner.medium.com/getting-comfortable-with-python-1371581a4971" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://bryanguner.medium.com/getting-comfortable-with-python-1371581a4971"><strong>Getting Comfortable With Python:</strong><br />
-<em>An introduction by example</em>bryanguner.medium.com</a><a href="https://bryanguner.medium.com/getting-comfortable-with-python-1371581a4971" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
+<a href="https://bryanguner.medium.com/getting-comfortable-with-python-1371581a4971" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://bryanguner.medium.com/getting-comfortable-with-python-1371581a4971"><strong>Getting Comfortable With Python:</strong>
+<br/>
 
-<a href="https://levelup.gitconnected.com/python-study-guide-for-a-native-javascript-developer-5cfdf3d2bdfb" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://levelup.gitconnected.com/python-study-guide-for-a-native-javascript-developer-5cfdf3d2bdfb"><strong>Python Study Guide for a JavaScript Programmer</strong><br />
+<em>An introduction by example</em><a href="https://bryanguner.medium.com/getting-comfortable-with-python-1371581a4971" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
+
+<a href="https://levelup.gitconnected.com/python-study-guide-for-a-native-javascript-developer-5cfdf3d2bdfb" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://levelup.gitconnected.com/python-study-guide-for-a-native-javascript-developer-5cfdf3d2bdfb"><strong>Python Study Guide for a JavaScript Programmer</strong>
+<br/>
+
 <em>A guide to commands in Python from what you know in JavaScript</em>levelup.gitconnected.com</a><a href="https://levelup.gitconnected.com/python-study-guide-for-a-native-javascript-developer-5cfdf3d2bdfb" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
 
 ### The Repository & Live Site Behind This Article:
@@ -43,9 +57,9 @@ My favorite language for maintainability is Python. It has simple, clean syntax,
 
 <a href="https://docs.python.org/3/tutorial/appetite.html" class="markup--anchor markup--p-anchor">Python enables programs to be written compactly and readably. Programs written in Python are typically much shorter than equivalent C, C++, or Java programs, for several reasons:</a>
 
--   <span id="894d">the high-level data types allow you to express complex operations in a single statement;</span>
--   <span id="48ef">statement grouping is done by indentation instead of beginning and ending brackets;</span>
--   <span id="f361">no variable or argument declarations are necessary.</span>
+- <span id="894d">the high-level data types allow you to express complex operations in a single statement;</span>
+- <span id="48ef">statement grouping is done by indentation instead of beginning and ending brackets;</span>
+- <span id="f361">no variable or argument declarations are necessary.</span>
 
 ### Installing Python:
 
@@ -76,13 +90,13 @@ To determine if your Windows computer already has Python 3:
 
 ### Python
 
--   <span id="c462">Python is an interpreted, high-level and general-purpose, dynamically typed programming language</span>
--   <span id="74e1">It is also Object oriented, modular oriented and a scripting language.</span>
--   <span id="6e0e">In Python, everything is considered as an Object.</span>
--   <span id="490d">A python file has an extension of .py</span>
--   <span id="2bd5">Python follows Indentation to separate code blocks instead of flower brackets({}).</span>
--   <span id="6434">We can run a python file by the following command in cmd(Windows) or shell(mac/linux).</span>
--   <span id="b76b">`python <filename.py>`</span>
+- <span id="c462">Python is an interpreted, high-level and general-purpose, dynamically typed programming language</span>
+- <span id="74e1">It is also Object oriented, modular oriented and a scripting language.</span>
+- <span id="6e0e">In Python, everything is considered as an Object.</span>
+- <span id="490d">A python file has an extension of .py</span>
+- <span id="2bd5">Python follows Indentation to separate code blocks instead of flower brackets({}).</span>
+- <span id="6434">We can run a python file by the following command in cmd(Windows) or shell(mac/linux).</span>
+- <span id="b76b">`python <filename.py>`</span>
 
 #### By default, the python doesn't require any imports to run a python file.
 
@@ -103,24 +117,24 @@ To determine if your Windows computer already has Python 3:
 
 ### List
 
--   <span id="a311">List is a collection which is ordered and changeable. Allows duplicate members.</span>
--   <span id="cd75">Lists are created using square brackets:</span>
+- <span id="a311">List is a collection which is ordered and changeable. Allows duplicate members.</span>
+- <span id="cd75">Lists are created using square brackets:</span>
 
 <!-- -->
 
     thislist = ["apple", "banana", "cherry"]
 
--   <span id="8afd">List items are ordered, changeable, and allow duplicate values.</span>
--   <span id="668d">List items are indexed, the first item has index `[0]`, the second item has index `[1]` etc.</span>
--   <span id="b8c7">The list is changeable, meaning that we can change, add, and remove items in a list after it has been created.</span>
--   <span id="b5f4">To determine how many items a list has, use the `len()` function.</span>
--   <span id="7dff">A list can contain different data types:</span>
+- <span id="8afd">List items are ordered, changeable, and allow duplicate values.</span>
+- <span id="668d">List items are indexed, the first item has index `[0]`, the second item has index `[1]` etc.</span>
+- <span id="b8c7">The list is changeable, meaning that we can change, add, and remove items in a list after it has been created.</span>
+- <span id="b5f4">To determine how many items a list has, use the `len()` function.</span>
+- <span id="7dff">A list can contain different data types:</span>
 
 <!-- -->
 
     list1 = ["abc", 34, True, 40, "male"]
 
--   <span id="9e81">It is also possible to use the list() constructor when creating a new list</span>
+- <span id="9e81">It is also possible to use the list() constructor when creating a new list</span>
 
 <!-- -->
 
@@ -128,33 +142,33 @@ To determine if your Windows computer already has Python 3:
 
 ### Tuple
 
--   <span id="50ea">Tuple is a collection which is ordered and unchangeable. Allows duplicate members.</span>
--   <span id="14ac">A tuple is a collection which is ordered and unchangeable.</span>
--   <span id="8cde">Tuples are written with round brackets.</span>
+- <span id="50ea">Tuple is a collection which is ordered and unchangeable. Allows duplicate members.</span>
+- <span id="14ac">A tuple is a collection which is ordered and unchangeable.</span>
+- <span id="8cde">Tuples are written with round brackets.</span>
 
 <!-- -->
 
     thistuple = ("apple", "banana", "cherry")
 
--   <span id="3e58">Tuple items are ordered, unchangeable, and allow duplicate values.</span>
--   <span id="2f5a">Tuple items are indexed, the first item has index `[0]`, the second item has index `[1]` etc.</span>
--   <span id="6f87">When we say that tuples are ordered, it means that the items have a defined order, and that order will not change.</span>
--   <span id="709a">Tuples are unchangeable, meaning that we cannot change, add or remove items after the tuple has been created.</span>
--   <span id="134b">Since tuple are indexed, tuples can have items with the same value:</span>
--   <span id="2720">Tuples allow duplicate values:</span>
+- <span id="3e58">Tuple items are ordered, unchangeable, and allow duplicate values.</span>
+- <span id="2f5a">Tuple items are indexed, the first item has index `[0]`, the second item has index `[1]` etc.</span>
+- <span id="6f87">When we say that tuples are ordered, it means that the items have a defined order, and that order will not change.</span>
+- <span id="709a">Tuples are unchangeable, meaning that we cannot change, add or remove items after the tuple has been created.</span>
+- <span id="134b">Since tuple are indexed, tuples can have items with the same value:</span>
+- <span id="2720">Tuples allow duplicate values:</span>
 
 <!-- -->
 
     thistuple = ("apple", "banana", "cherry", "apple", "cherry")
 
--   <span id="ddae">To determine how many items a tuple has, use the `len()`function:</span>
+- <span id="ddae">To determine how many items a tuple has, use the `len()`function:</span>
 
 <!-- -->
 
     thistuple = ("apple", "banana", "cherry")
     print(len(thistuple))
 
--   <span id="2723">To create a tuple with only one item, you have to add a comma after the item, otherwise Python will not recognize it as a tuple.</span>
+- <span id="2723">To create a tuple with only one item, you have to add a comma after the item, otherwise Python will not recognize it as a tuple.</span>
 
 <!-- -->
 
@@ -165,7 +179,7 @@ To determine if your Windows computer already has Python 3:
     thistuple = ("apple")
     print(type(thistuple))
 
--   <span id="4556">It is also possible to use the tuple() constructor to make a tuple.</span>
+- <span id="4556">It is also possible to use the tuple() constructor to make a tuple.</span>
 
 <!-- -->
 
@@ -174,19 +188,19 @@ To determine if your Windows computer already has Python 3:
 
 ### Set
 
--   <span id="1991">Set is a collection which is unordered and unindexed. No duplicate members.</span>
--   <span id="d108">A set is a collection which is both unordered and unindexed.</span>
+- <span id="1991">Set is a collection which is unordered and unindexed. No duplicate members.</span>
+- <span id="d108">A set is a collection which is both unordered and unindexed.</span>
 
 <!-- -->
 
     thisset = {"apple", "banana", "cherry"}
 
--   <span id="4098">Set items are unordered, unchangeable, and do not allow duplicate values.</span>
--   <span id="b4d0">Unordered means that the items in a set do not have a defined order.</span>
--   <span id="d081">Set items can appear in a different order every time you use them, and cannot be referred to by index or key.</span>
--   <span id="4f53">Sets are unchangeable, meaning that we cannot change the items after the set has been created.</span>
--   <span id="812b">Duplicate values will be ignored.</span>
--   <span id="3ac9">To determine how many items a set has, use the `len()` method.</span>
+- <span id="4098">Set items are unordered, unchangeable, and do not allow duplicate values.</span>
+- <span id="b4d0">Unordered means that the items in a set do not have a defined order.</span>
+- <span id="d081">Set items can appear in a different order every time you use them, and cannot be referred to by index or key.</span>
+- <span id="4f53">Sets are unchangeable, meaning that we cannot change the items after the set has been created.</span>
+- <span id="812b">Duplicate values will be ignored.</span>
+- <span id="3ac9">To determine how many items a set has, use the `len()` method.</span>
 
 <!-- -->
 
@@ -194,7 +208,7 @@ To determine if your Windows computer already has Python 3:
 
     print(len(thisset))
 
--   <span id="b34e">Set items can be of any data type:</span>
+- <span id="b34e">Set items can be of any data type:</span>
 
 <!-- -->
 
@@ -203,7 +217,7 @@ To determine if your Windows computer already has Python 3:
     set3 = {True, False, False}
     set4 = {"abc", 34, True, 40, "male"}
 
--   <span id="2a23">It is also possible to use the `set()` constructor to make a set.</span>
+- <span id="2a23">It is also possible to use the `set()` constructor to make a set.</span>
 
 <!-- -->
 
@@ -211,9 +225,9 @@ To determine if your Windows computer already has Python 3:
 
 ### Dictionary
 
--   <span id="3c14">Dictionary is a collection which is unordered and changeable. No duplicate members.</span>
--   <span id="cf8a">Dictionaries are used to store data values in key:value pairs.</span>
--   <span id="bbb2">Dictionaries are written with curly brackets, and have keys and values:</span>
+- <span id="3c14">Dictionary is a collection which is unordered and changeable. No duplicate members.</span>
+- <span id="cf8a">Dictionaries are used to store data values in key:value pairs.</span>
+- <span id="bbb2">Dictionaries are written with curly brackets, and have keys and values:</span>
 
 <!-- -->
 
@@ -223,7 +237,7 @@ To determine if your Windows computer already has Python 3:
       "year": 1964
     }
 
--   <span id="7f11">Dictionary items are presented in key:value pairs, and can be referred to by using the key name.</span>
+- <span id="7f11">Dictionary items are presented in key:value pairs, and can be referred to by using the key name.</span>
 
 <!-- -->
 
@@ -234,16 +248,16 @@ To determine if your Windows computer already has Python 3:
     }
     print(thisdict["brand"])
 
--   <span id="8700">Dictionaries are changeable, meaning that we can change, add or remove items after the dictionary has been created.</span>
--   <span id="ea7e">Dictionaries cannot have two items with the same key.</span>
--   <span id="1ad4">Duplicate values will overwrite existing values.</span>
--   <span id="7582">To determine how many items a dictionary has, use the `len()` function.</span>
+- <span id="8700">Dictionaries are changeable, meaning that we can change, add or remove items after the dictionary has been created.</span>
+- <span id="ea7e">Dictionaries cannot have two items with the same key.</span>
+- <span id="1ad4">Duplicate values will overwrite existing values.</span>
+- <span id="7582">To determine how many items a dictionary has, use the `len()` function.</span>
 
 <!-- -->
 
     print(len(thisdict))
 
--   <span id="305d">The values in dictionary items can be of any data type</span>
+- <span id="305d">The values in dictionary items can be of any data type</span>
 
 <!-- -->
 
@@ -272,8 +286,8 @@ Python has two primitive loop commands:
 
 #### While loop
 
--   <span id="e9e1">With the `while` loop we can execute a set of statements as long as a condition is true.</span>
--   <span id="ef71">Example: Print i as long as i is less than 6</span>
+- <span id="e9e1">With the `while` loop we can execute a set of statements as long as a condition is true.</span>
+- <span id="ef71">Example: Print i as long as i is less than 6</span>
 
 <!-- -->
 
@@ -282,16 +296,16 @@ Python has two primitive loop commands:
       print(i)
       i += 1
 
--   <span id="5f4a">The while loop requires relevant variables to be ready, in this example we need to define an indexing variable, i, which we set to 1.</span>
--   <span id="2dce">With the `break` statement we can stop the loop even if the while condition is true</span>
--   <span id="371e">With the continue statement we can stop the current iteration, and continue with the next.</span>
--   <span id="3dcf">With the else statement we can run a block of code once when the condition no longer is true.</span>
+- <span id="5f4a">The while loop requires relevant variables to be ready, in this example we need to define an indexing variable, i, which we set to 1.</span>
+- <span id="2dce">With the `break` statement we can stop the loop even if the while condition is true</span>
+- <span id="371e">With the continue statement we can stop the current iteration, and continue with the next.</span>
+- <span id="3dcf">With the else statement we can run a block of code once when the condition no longer is true.</span>
 
 #### For loop
 
--   <span id="0fa5">A for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).</span>
--   <span id="871e">This is less like the for keyword in other programming languages, and works more like an iterator method as found in other object-orientated programming languages.</span>
--   <span id="ca9c">With the for loop we can execute a set of statements, once for each item in a list, tuple, set etc.</span>
+- <span id="0fa5">A for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).</span>
+- <span id="871e">This is less like the for keyword in other programming languages, and works more like an iterator method as found in other object-orientated programming languages.</span>
+- <span id="ca9c">With the for loop we can execute a set of statements, once for each item in a list, tuple, set etc.</span>
 
 <!-- -->
 
@@ -299,13 +313,13 @@ Python has two primitive loop commands:
     for x in fruits:
       print(x)
 
--   <span id="19c1">The for loop does not require an indexing variable to set beforehand.</span>
--   <span id="fb47">To loop through a set of code a specified number of times, we can use the range() function.</span>
--   <span id="f32d">The range() function returns a sequence of numbers, starting from 0 by default, and increments by 1 (by default), and ends at a specified number.</span>
--   <span id="b8d4">The range() function defaults to increment the sequence by 1, however it is possible to specify the increment value by adding a third parameter: range(2, 30, 3).</span>
--   <span id="cca5">The else keyword in a for loop specifies a block of code to be executed when the loop is finished.  
+- <span id="19c1">The for loop does not require an indexing variable to set beforehand.</span>
+- <span id="fb47">To loop through a set of code a specified number of times, we can use the range() function.</span>
+- <span id="f32d">The range() function returns a sequence of numbers, starting from 0 by default, and increments by 1 (by default), and ends at a specified number.</span>
+- <span id="b8d4">The range() function defaults to increment the sequence by 1, however it is possible to specify the increment value by adding a third parameter: range(2, 30, 3).</span>
+- <span id="cca5">The else keyword in a for loop specifies a block of code to be executed when the loop is finished.  
     A nested loop is a loop inside a loop.</span>
--   <span id="acbb">The “inner loop” will be executed one time for each iteration of the “outer loop”:</span>
+- <span id="acbb">The "inner loop" will be executed one time for each iteration of the "outer loop":</span>
 
 <!-- -->
 
@@ -316,7 +330,7 @@ Python has two primitive loop commands:
       for y in fruits:
         print(x, y)
 
--   <span id="1bdd">for loops cannot be empty, but if you for some reason have a for loop with no content, put in the pass statement to avoid getting an error.</span>
+- <span id="1bdd">for loops cannot be empty, but if you for some reason have a for loop with no content, put in the pass statement to avoid getting an error.</span>
 
 <!-- -->
 
@@ -332,9 +346,9 @@ Python has two primitive loop commands:
 
     function_name()
 
--   <span id="a1ca">We need not to specify the return type of the function.</span>
--   <span id="89e4">Functions by default return `None`</span>
--   <span id="7041">We can return any datatype.</span>
+- <span id="a1ca">We need not to specify the return type of the function.</span>
+- <span id="89e4">Functions by default return `None`</span>
+- <span id="7041">We can return any datatype.</span>
 
 ---
 
@@ -348,7 +362,7 @@ Lets create a <a href="https://repl.it/languages/python3" class="markup--anchor 
 
     print('Hello world!')
 
-> _Brian Kernighan actually wrote the first “Hello, World!” program as part of the documentation for the BCPL programming language developed by Martin Richards._
+> _Brian Kernighan actually wrote the first "Hello, World!" program as part of the documentation for the BCPL programming language developed by Martin Richards._
 
 Now, press the run button, which obviously runs the code. If you are not using replit, this will not work. You should research how to run a file with your text editor.
 
@@ -381,7 +395,7 @@ Unlike many other languages, there is no `var`, `let`, or `const` to declare a v
 
 Remember, there is a difference between integers and strings. _Remember: String =_ `""`_._ To convert between these two, you can put an int in a `str()` function, and a string in a `int()` function. There is also a less used one, called a float. Mainly, these are integers with decimals. Change them using the `float()` command.
 
-<a href="https://repl.it/@bgoonz/second-scr?lite=true&amp;amp;referrer=https%3A%2F%2Fbryanguner.medium.com" class="markup--anchor markup--p-anchor">https://repl.it/@bgoonz/second-scr?lite=true&amp;amp;referrer=https%3A%2F%2Fbryanguner.medium.com</a>
+<a href="https://repl.it/@bgoonz/second-scr?lite=true&amp;amp;referrer=https%3A%2F%2Fbryanguner.medium.com" class="markup--anchor markup--p-anchor">https://repl.it/@bgoonz/second-scr?lite=true&amp;amp;referrer=https%3A%2F%2F
 
     x = 5
     x = str(x)
@@ -395,10 +409,10 @@ Instead of using the `,` in the print function, you can put a `+` to combine the
 
 There are many operators in python:
 
--   <span id="d553">`+`</span>
--   <span id="a1b3">`-`</span>
--   <span id="f09c">`/`</span>
--   <span id="cd1e">`*`  
+- <span id="d553">`+`</span>
+- <span id="a1b3">`-`</span>
+- <span id="f09c">`/`</span>
+- <span id="cd1e">`*`  
     These operators are the same in most languages, and allow for addition, subtraction, division, and multiplicaiton.  
     Now, we can look at a few more complicated ones:</span>
 
@@ -456,14 +470,16 @@ The first number stands for how far in you go from the front, and the second sta
 
 Here is a list of functions/methods we will go over:
 
--   <span id="aaaa">`.strip()`</span>
--   <span id="b3ee">`len()`</span>
--   <span id="c5cc">`.lower()`</span>
--   <span id="3466">`.upper()`</span>
--   <span id="a06d">`.replace()`</span>
--   <span id="57b6">`.split()`</span>
+- <span id="aaaa">`.strip()`</span>
+- <span id="b3ee">`len()`</span>
+- <span id="c5cc">`.lower()`</span>
+- <span id="3466">`.upper()`</span>
+- <span id="a06d">`.replace()`</span>
+- <span id="57b6">`.split()`</span>
 
-<a href="https://trinket.io/python3/2b693977e7" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://trinket.io/python3/2b693977e7"><strong>Put Python Anywhere on the Web</strong><br />
+<a href="https://trinket.io/python3/2b693977e7" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://trinket.io/python3/2b693977e7"><strong>Put Python Anywhere on the Web</strong>
+<br/>
+
 <em>Python in the browser. No installation required.</em>trinket.io</a><a href="https://trinket.io/python3/2b693977e7" class="js-mixtapeImage mixtapeImage mixtapeImage--empty u-ignoreBlock"></a>
 
 ### New: Input()
@@ -656,49 +672,49 @@ First things first, let's import the stuff that we need, like this:
 
 Now, we need some variables to hold some of the player data.
 
-    name = input(“Name Please:  “) #We'll use this to get the name from the user
-    nickname = input(“Nickname: “)
+    name = input("Name Please:  ") #We'll use this to get the name from the user
+    nickname = input("Nickname: ")
 
 Ok, now we have the player's name and nickname, let's welcome them to the game
 
-    print(“Hello and welcome “ + name)
+    print("Hello and welcome " + name)
 
 Now for the story. The most important part of all stories is the introduction, so let's print our introduction
 
-    print(“Long ago, there was a magical meal known as Summuh and Spich Atip”) #We can drop a line by making a new print statement, or we can use the escape code \n
-    print(“It was said that this meal had the power to save lives, restore peace, and stop evil\nBecuase it was so powerful, it was hidden away on a mountain that could not be climbed\nBut it's power brought unwanted attention, and a great war broke out.\nFinally, the leaders of the good side chose a single hero to go and find the Summah and Spich Atip, that hero was “ + name + “\n so ” + nickname + ' headed out to find this great power, and stop the war…')
+    print("Long ago, there was a magical meal known as Summuh and Spich Atip") #We can drop a line by making a new print statement, or we can use the escape code \n
+    print("It was said that this meal had the power to save lives, restore peace, and stop evil\nBecuase it was so powerful, it was hidden away on a mountain that could not be climbed\nBut it's power brought unwanted attention, and a great war broke out.\nFinally, the leaders of the good side chose a single hero to go and find the Summah and Spich Atip, that hero was " + name + "\n so " + nickname + ' headed out to find this great power, and stop the war…')
 
 Now, we'll give the player their first choice
 
-    print(“After hiking through the wastelands for a long time, you come to a massive ravine, there is only a single way across\nA rickety old bridge, taking that could be very dangerous, but… maybe you could jump across?”)
-    choice1 = input(“[1]  Take the bridge     [2] Try and jump over”)
+    print("After hiking through the wastelands for a long time, you come to a massive ravine, there is only a single way across\nA rickety old bridge, taking that could be very dangerous, but… maybe you could jump across?")
+    choice1 = input("[1]  Take the bridge     [2] Try and jump over")
     #Now we check to see what the player chose
     If choice1 == '1':
-      print(“You slowly walk across the bride, it creakes ominously, then suddenly breaks! You flail through the air before hitting the ground a thousand feet below. Judging by the fact that you hit the ground with the equivalent force of being hit by a cement truck moving at 125 miles an hour, you are dead…”)
+      print("You slowly walk across the bride, it creakes ominously, then suddenly breaks! You flail through the air before hitting the ground a thousand feet below. Judging by the fact that you hit the ground with the equivalent force of being hit by a cement truck moving at 125 miles an hour, you are dead…")
       #The player lost, so now we'll boot them out of the program with the exit command
       exit()
     #Then we check to see if they made the other choice, we can do with with else if, written as elif
     elif choice1 == '2':
-      print(“You make the jump! You see a feather hit the bridge, the weight breakes it and sends it to the bottom of the ravine\nGood thing you didn't use that bridge.”)
+      print("You make the jump! You see a feather hit the bridge, the weight breakes it and sends it to the bottom of the ravine\nGood thing you didn't use that bridge.")
     #Now we can continue the story
-    print(“A few more hours of travel and you come to the unclimbable mountain.”)
-    choice2 == input(“[1]   Give up    [2]    Try and climb the mountain”)
+    print("A few more hours of travel and you come to the unclimbable mountain.")
+    choice2 == input("[1]   Give up    [2]    Try and climb the mountain")
     if choice2 == '1':
-      print(“You gave up and lost…”)
+      print("You gave up and lost…")
       #now we exit them again
       exit()
     elif choice2 == '1':
-      print(“you continue up the mountain. Climbing is hard, but finally you reach the top.\nTo your surprise there is a man standing at the top of the mountain, he is very old.”)
-      print(“Old Man: Hey “ + nickname)
-      print(“You: How do you know my name!?!”)
-      print(“Old Man: Because you have a name tag on…”)
-      print(“You: Oh, well, were is the Summuh and Spich Atip?”)
-      print(“Old Man: Summuh and Spich Atip? You must mean the Pita Chips and Hummus”)
-      print(“You: Pita…chips…humus, what power do those have?”)
-      print(“Old Man: Pretty simple kid, their organic…”)
+      print("you continue up the mountain. Climbing is hard, but finally you reach the top.\nTo your surprise there is a man standing at the top of the mountain, he is very old.")
+      print("Old Man: Hey " + nickname)
+      print("You: How do you know my name!?!")
+      print("Old Man: Because you have a name tag on…")
+      print("You: Oh, well, were is the Summuh and Spich Atip?")
+      print("Old Man: Summuh and Spich Atip? You must mean the Pita Chips and Hummus")
+      print("You: Pita…chips…humus, what power do those have?")
+      print("Old Man: Pretty simple kid, their organic…")
       #Now let's clear the screen
       os.system('clear')
-      print(“YOU WON!!!”)
+      print("YOU WON!!!")
 
 There you have it, a pretty simple choose your own ending story. You can make it as complex or uncomplex as you like.
 
@@ -706,7 +722,7 @@ There you have it, a pretty simple choose your own ending story. You can make it
 
 Ever make secret messages as a kid? I used to. Anyways, here's the way you can make a program to encode messages! It's pretty simple. First things first, let's get the message the user wants to encode, we'll use input() for that:
 
-    message = input(“Message you would like encoded: “)
+    message = input("Message you would like encoded: ")
 
 Now we need to split that string into a list of characters, this part is a bit more complicated.
 
@@ -752,15 +768,15 @@ Next, we get a random number from the list
 Now, we need to ask the user for input, we'll to this with a while loop
 
     while True:
-      # We could use guess = input(“What do you think my number is?   “), but that would produce a string, and numbers are integers, so we'll convert the input into an integer
-      guess = int(input(“What do you think my number is?   “))
+      # We could use guess = input("What do you think my number is?   "), but that would produce a string, and numbers are integers, so we'll convert the input into an integer
+      guess = int(input("What do you think my number is?   "))
       #Next, we'll check if that number is equal to the number we picked
       if guess == num:
         break   #this will remove us from the loop, so we can display the win message
       else:
-        print(“Nope, that isn't it”)
+        print("Nope, that isn't it")
     #outside our loop, we'll have the win message that is displayed if the player gets the correct number.
-    print(“You won!”)
+    print("You won!")
 
 Have fun with this!
 
@@ -769,7 +785,7 @@ Have fun with this!
 Here is a more advanced project, but still pretty easy. This will be using a txt file to save some notes. The first thing we need to do is to create a txt file in your repl, name it 'notes.txt'  
 Now, to open a file in python we use open('filename', type) The type can be 'r' for read, or 'w' for write. There is another option, but we won't be using that here. Now, the first thing we are going to do is get what the user would like to save:
 
-    message = input(“What would you like to save?”)
+    message = input("What would you like to save?")
 
 Now we'll open our file and save that text
 
@@ -800,15 +816,17 @@ Who doesn't love a good dare? Here is a program that can generate random dares. 
     #now we'll generate a dare
     while True:
       if input() == '': #this will trigger if they hit enter
-        print(“I dare you to “ + random.choice(list1) + ' ' + random.choice(list2) + ' in front of '  + random.choice(list3)
+        print("I dare you to " + random.choice(list1) + ' ' + random.choice(list2) + ' in front of '  + random.choice(list3)
 
 ### Discover More:
 
-<a href="https://bgoonz-blog.netlify.app/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://bgoonz-blog.netlify.app/"><strong>Web-Dev-Hub</strong><br />
+<a href="https://bgoonz-blog.netlify.app/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://bgoonz-blog.netlify.app/"><strong>Web-Dev-Hub</strong>
+<br/>
+
 <em>Memoization, Tabulation, and Sorting Algorithms by Example Why is looking at runtime not a reliable method of…</em>bgoonz-blog.netlify.app</a><a href="https://bgoonz-blog.netlify.app/" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
 
 By <a href="https://medium.com/@bryanguner" class="p-author h-card">Bryan Guner</a> on [June 4, 2021](https://medium.com/p/e5a59b5bb64d).
 
 <a href="https://medium.com/@bryanguner/beginners-guide-to-python-e5a59b5bb64d" class="p-canonical">Canonical link</a>
 
-Exported from [Medium](https://medium.com) on August 31, 2021.
+ August 31, 2021.

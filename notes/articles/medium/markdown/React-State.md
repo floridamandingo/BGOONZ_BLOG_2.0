@@ -150,7 +150,7 @@ Demystified
 
 -   <span id="e560">Let's say we want to update our state with a new quote.</span>
 -   <span id="ead5">We can set up event listeners in React similarly to how we did them before.</span>
--   <span id="b7c7">&lt;button type=”button” onClick={this.changeQuote}&gt; Change Quote &lt;/button&gt;</span>
+-   <span id="b7c7">&lt;button type="button" onClick={this.changeQuote}&gt; Change Quote &lt;/button&gt;</span>
 -   <span id="270b">`onClick` is the event listener.</span>
 -   <span id="10c4">`{this.changeQuote}` is the event handler method.</span>
 -   <span id="99e8">Our Class Component File should now look like this with the new additions:</span>
@@ -561,4 +561,4 @@ By <a href="https://medium.com/@bryanguner" class="p-author h-card">Bryan Guner<
 
 <a href="https://medium.com/@bryanguner/react-state-d8e0fc340714" class="p-canonical">Canonical link</a>
 
-Exported from [Medium](https://medium.com) on August 31, 2021.
+ August 31, 2021.

@@ -11,14 +11,14 @@ undefined.
 The difference between those two is subtle and is best explained by how to use
 them:
 
--   `undefined` is the value JavaScript itself uses to indicate the absence of a
+- `undefined` is the value JavaScript itself uses to indicate the absence of a
     value.
--   `null` is the value the engineer should use to indicate the absence of a
+- `null` is the value the engineer should use to indicate the absence of a
     value.
 
 Examples:
 
-```javascript
+```js
 var foo; // no value is assigned, foo has the value undefined
 var bar = null; // bar is explicitly set to null
 console.log(foo); // logs "undefined"

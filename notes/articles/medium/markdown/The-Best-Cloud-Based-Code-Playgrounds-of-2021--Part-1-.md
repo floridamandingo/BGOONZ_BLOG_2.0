@@ -104,7 +104,7 @@ Once you enter code, just hit **Run** in the top actions bar, and the fourth pan
 
 ### Embed Options
 
-> **_&lt;iframe src=”https://stackblitz.com/edit/angular?embed=1"&gt;&lt;/iframe&gt;_**
+> **_&lt;iframe src="https://stackblitz.com/edit/angular?embed=1"&gt;&lt;/iframe&gt;_**
 
 <figure><img src="https://cdn-images-1.medium.com/max/800/1*6QF4ywBOMVFtS_MukRkLKw.png" class="graf-image" /></figure><figure><img src="https://cdn-images-1.medium.com/max/600/1*5ekSGpNwJ28hI9Aog8V4DQ.png" class="graf-image" /></figure>🡩 **Alternatively, you can also use StackBlitz's** <a href="https://developer.stackblitz.com/docs/platform/embedding#open-and-embed-stackblitz-projects" class="markup--anchor markup--blockquote-anchor"><strong>Javascript SDK methods</strong></a> **for easily embedding StackBlitz projects on the page & avoid all the hassles of creating/configuring iframes.**
 
@@ -159,19 +159,25 @@ An existing project will be identified by Glitch as a **static** site if it does
 
 ### If you found this guide helpful feel free to checkout my GitHub/gists where I host similar content:
 
-<a href="https://gist.github.com/bgoonz" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://gist.github.com/bgoonz"><strong>bgoonz's gists</strong><br />
+<a href="https://gist.github.com/bgoonz" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://gist.github.com/bgoonz"><strong>bgoonz's gists</strong>
+<br/>
+
 <em>Instantly share code, notes, and snippets. Web Developer, Electrical Engineer JavaScript | CSS | Bootstrap | Python |…</em>gist.github.com</a><a href="https://gist.github.com/bgoonz" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
 
-<a href="https://github.com/bgoonz" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://github.com/bgoonz"><strong>bgoonz — Overview</strong><br />
+<a href="https://github.com/bgoonz" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://github.com/bgoonz"><strong>bgoonz — Overview</strong>
+<br/>
+
 <em>Web Developer, Electrical Engineer JavaScript | CSS | Bootstrap | Python | React | Node.js | Express | Sequelize…</em>github.com</a><a href="https://github.com/bgoonz" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
 
 ### Or Checkout my personal Resource Site:
 
-<a href="https://web-dev-resource-hub.netlify.app/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://web-dev-resource-hub.netlify.app/"><strong>Web-Dev-Resource-Hub</strong><br />
+<a href="https://web-dev-resource-hub.netlify.app/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://web-dev-resource-hub.netlify.app/"><strong>Web-Dev-Resource-Hub</strong>
+<br/>
+
 <em>Edit description</em>web-dev-resource-hub.netlify.app</a><a href="https://web-dev-resource-hub.netlify.app/" class="js-mixtapeImage mixtapeImage mixtapeImage--empty u-ignoreBlock"></a>
 
 By <a href="https://medium.com/@bryanguner" class="p-author h-card">Bryan Guner</a> on [March 20, 2021](https://medium.com/p/cdae9448db24).
 
 <a href="https://medium.com/@bryanguner/the-best-cloud-based-code-playgrounds-of-2021-part-1-cdae9448db24" class="p-canonical">Canonical link</a>
 
-Exported from [Medium](https://medium.com) on August 31, 2021.
+ August 31, 2021.

@@ -169,6 +169,8 @@ What is a Query?
     SELECT * FROM puppies
     INNER JOIN breeds ON (puppies.breed_id = breeds.id);
 
+```
+
 ---
 
 ### Using Seed Files
@@ -197,13 +199,13 @@ What is a Query?
     INSERT INTO pies VALUES('Raspberry', 20.99);
     INSERT INTO pies VALUES('Mixed Berry', 21.45);
 
-**Populating a database via &lt; (“left caret”)**
+**Populating a database via &lt; ("left caret")**
 
 -   <span id="0880">Syntax :  
     `psql -d [database] < [path_to_file/file.sql]`  
     `psql -d bakery < path_to_my_file/seed-data.sql`</span>
 
-**Populating the database via | (“pipe”)**
+**Populating the database via | ("pipe")**
 
 -   <span id="e1ff">Syntax :  
     `cat [path_to_file/file.sql] | psql -d [database]`  
@@ -580,4 +582,4 @@ By <a href="https://medium.com/@bryanguner" class="p-author h-card">Bryan Guner<
 
 <a href="https://medium.com/@bryanguner/mini-review-of-sql-for-postgresql-w-node-express-f34676f3802b" class="p-canonical">Canonical link</a>
 
-Exported from [Medium](https://medium.com) on August 31, 2021.
+ August 31, 2021.

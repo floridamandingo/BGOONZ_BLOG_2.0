@@ -5,18 +5,18 @@ title: Control structures
 JavaScript provides the same control structures known from other C-like
 languages:
 
--   `if (...) { ... } else if (...) { ... } else { ... }`
+- `if (...) { ... } else if (...) { ... } else { ... }`
 
--   `while (...) { ... }` and `do { ... } while (...)`
+- `while (...) { ... }` and `do { ... } while (...)`
 
--   `for (...; ...; ...) { ... }`
+- `for (...; ...; ...) { ... }`
 
--   `switch (...) { case ...: ... }`
+- `switch (...) { case ...: ... }`
 
 Additionally, JavaScript provides the `for...in` loop to iterate over properties
 of objects:
 
-```javascript
+```js
 for (var prop in obj) {
     console.log(prop, obj[prop]);
 }

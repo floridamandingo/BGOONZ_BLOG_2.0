@@ -1,10 +1,10 @@
 ---
 title: Intro To React
 weight: 0
-excerpt: lorem-ipsum
+excerpt: All of the code examples below will be included a second time at the bottom of this article as an embedded gist.
 seo:
-    title: ''
-    description: ''
+    title: 'React Intro'
+    description: 'Introduction to React for Complete Beginners All of the code examples below will be included a second time at the bottom of this article as an embedded gist, so that it is properly syntax highlighted. React uses a syntax extension of JavaScript called JSX that allows you to write HTML directly within JavaScript.'
     robots: []
     extra: []
     type: stackbit_page_meta
@@ -47,7 +47,7 @@ React uses a syntax extension of JavaScript called JSX that allows you to write 
 
 ### What is React?
 
-React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components”.
+React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called "components".
 
 React has a few different kinds of components, but we'll start with `React.Component` subclasses:
 
@@ -70,14 +70,16 @@ React has a few different kinds of components, but we'll start with `React.Compo
 
 We'll get to the funny XML-like tags soon. We use components to tell React what we want to see on the screen. When our data changes, React will efficiently update and re-render our components.
 
-Here, ShoppingList is a **React component class**, or **React component type**. A component takes in parameters, called `props` (short for “properties”), and returns a hierarchy of views to display via the `render` method.
+Here, ShoppingList is a **React component class**, or **React component type**. A component takes in parameters, called `props` (short for "properties"), and returns a hierarchy of views to display via the `render` method.
 
-The `render` method returns a _description_ of what you want to see on the screen. React takes the description and displays the result. In particular, `render` returns a **React element**, which is a lightweight description of what to render. Most React developers use a special syntax called “JSX” which makes these structures easier to write. The `<div />` syntax is transformed at build time to `React.createElement('div')`. The example above is equivalent to:
+The `render` method returns a _description_ of what you want to see on the screen. React takes the description and displays the result. In particular, `render` returns a **React element**, which is a lightweight description of what to render. Most React developers use a special syntax called "JSX" which makes these structures easier to write. The `<div />` syntax is transformed at build time to `React.createElement('div')`. The example above is equivalent to:
 
     return React.createElement('div', {className: 'shopping-list'},
       React.createElement('h1', /* ... h1 children ... */),
       React.createElement('ul', /* ... ul children ... */)
     );
+
+```
 
 ---
 
@@ -103,6 +105,9 @@ To put comments inside JSX, you use the syntax {/\* \*/} to wrap around the comm
 
 The code editor has a JSX element similar to what you created in the last challenge. Add a comment somewhere within the provided div element, without modifying the existing h1 or p elements.
 
+
+```js
+
     const JSX = (
       <div>
       {/* This is a comment */}
@@ -110,6 +115,8 @@ The code editor has a JSX element similar to what you created in the last challe
         <p>Here's a subtitle</p>
       </div>
     );
+
+```
 
 ---
 
@@ -147,7 +154,9 @@ The code editor has a JSX element similar to what you created in the last challe
 
 ### Ans:
 
-    const JSX = (
+```js
+
+ const JSX = (
       <div className="myDiv">
         <h1>Add a class to this div</h1>
       </div>
@@ -159,7 +168,7 @@ The code editor has a JSX element similar to what you created in the last challe
 
 > _In HTML, almost all tags have both an opening and closing tag:_ `<div></div>;` _the closing tag always has a forward slash before the tag name that you are closing._
 
-> _there are special instances in HTML called “self-closing tags”, or tags that don't require both an opening and closing tag before another tag can start._
+> _there are special instances in HTML called "self-closing tags", or tags that don't require both an opening and closing tag before another tag can start._
 
 > _For example the line-break tag can be written as_ `<br>` _or as_ `<br />,` _but should never be written as_ `<br></br>`_, since it doesn't contain any content._
 
@@ -168,7 +177,10 @@ The code editor has a JSX element similar to what you created in the last challe
 > A_ `<div>`_, on the other hand, can be written as_ `<div />`_or_`<div></div>`_.  
 > The difference is that in the first syntax version there is no way to include anything in the_ `<div />`_._
 
-### Fix the errors in the code editor so that it is valid JSX and successfully transpiles. Make sure you don't change any of the content — you only need to close tags where they are needed.
+### Fix the errors in the code editor so that it is valid JSX and successfully transpiles. Make sure you don't change any of the content — you only need to close tags where they are needed.
+
+
+```js
 
     const JSX = (
       <div>
@@ -180,13 +192,17 @@ The code editor has a JSX element similar to what you created in the last challe
 
 ### Ans:
 
-    const JSX = (
+```js
+
+ const JSX = (
       <div>
         <h2>Welcome to React!</h2> <br />
         <p>Be sure to close all tags!</p>
         <hr />
       </div>
     );
+
+```
 
 ---
 
@@ -298,6 +314,12 @@ Note: The text is considered a child of the div element, so you will not be able
 
 ---
 
+
+<details>
+
+<summary>  See More </summary>   
+
+
 ### React: Create a Component with Composition
 
 > _Imagine you are building an App and have created three components, a Navbar, Dashboard, and Footer._
@@ -357,6 +379,13 @@ Note: The text is considered a child of the div element, so you will not be able
 
 ### Ans:
 
+
+
+<details>
+
+<summary>  Answers </summary>   
+
+
     const ChildComponent = () => {
       return (
         <div>
@@ -380,10 +409,17 @@ Note: The text is considered a child of the div element, so you will not be able
         );
       }
     };
+```
+
+
+
+    
+ </details>   
+    
 
 ### More Examples:
 
-For more content follow me on GitHub:
+
 
 <a href="https://github.com/bgoonz" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://github.com/bgoonz"><strong>bgoonz - Overview</strong><br />
 <em>Web Developer, Electrical Engineer https://bryanguner.medium.com/ https://portfolio42.netlify.app/…</em>github.com</a><a href="https://github.com/bgoonz" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
@@ -394,7 +430,7 @@ By <a href="https://medium.com/@bryanguner" class="p-author h-card">Bryan Guner<
 
 <a href="https://medium.com/@bryanguner/introduction-to-react-for-complete-beginners-8021738aa1ad" class="p-canonical">Canonical link</a>
 
-Exported from [Medium](https://medium.com) on May 23, 2021.
+ May 23, 2021.
 
 # Snippets:
 
@@ -423,7 +459,7 @@ Exported from [Medium](https://medium.com) on May 23, 2021.
 
 </div>
 
-````js
+```js
 
 const AccordionItem = ({ label, isCollapsed, handleClick, children }) =&gt; {
   return (
@@ -464,8 +500,6 @@ children={props.children}
 );
 };
 
-
-
 <hr />
 
 ```js
@@ -482,7 +516,7 @@ ReactDOM.render(
   document.getElementById(&quot;root&quot;)
 );
 
-````
+```
 
 <hr />
 <p>Renders an alert component with <code>type</code> prop.</p>
@@ -547,7 +581,7 @@ ReactDOM.render(
 
 </div>
 
-````js
+```js
 
 const Alert = ({ isDefaultShown = false, timeout = 250, type, message }) =&gt; {
   const [isShown, setIsShown] = React.useState(isDefaultShown);
@@ -583,8 +617,6 @@ role=&quot;alert&quot;
 );
 };
 
-
-
 <hr />
 
 ```js
@@ -594,7 +626,7 @@ ReactDOM.render(
   document.getElementById(&quot;root&quot;)
 );
 
-````
+```
 
 <hr />
 <p>Renders a string as plaintext, with URLs converted to appropriate link elements.</p>
@@ -688,7 +720,7 @@ ReactDOM.render(
 
 </div>
 
-````js
+```js
 
 const Carousel = ({ carouselItems, ...rest }) =&gt; {
   const [active, setActive] = React.useState(0);
@@ -714,8 +746,6 @@ className: `carousel-item${activeClass}`,
 );
 };
 
-
-
 <hr />
 
 ```js
@@ -731,7 +761,7 @@ ReactDOM.render(
   document.getElementById(&quot;root&quot;)
 );
 
-````
+```
 
 <hr />
 <p>Renders a component with collapsible content.</p>
@@ -756,7 +786,7 @@ ReactDOM.render(
 
 </div>
 
-````js
+```js
 
 const Collapse = ({ collapsed, children }) =&gt; {
   const [isCollapsed, setIsCollapsed] = React.useState(collapsed);
@@ -779,8 +809,6 @@ aria-expanded={isCollapsed}
 );
 };
 
-
-
 <hr />
 
 ```js
@@ -793,7 +821,7 @@ ReactDOM.render(
   document.getElementById(&quot;root&quot;)
 );
 
-````
+```
 
 <hr />
 <p>Renders a controlled <code>&lt;input&gt;</code> element that uses a callback function to inform its parent about value updates.</p>
@@ -1003,7 +1031,7 @@ ReactDOM.render(&lt;DataTable data={people} /&gt;, document.getElementById(&quot
 
 </div>
 
-````js
+```js
 
 const FileDrop = ({ onDrop }) =&gt; {
   const [drag, setDrag] = React.useState(false);
@@ -1068,8 +1096,6 @@ drag ? &quot;filedrop drag&quot; : filename ? &quot;filedrop ready&quot; : &quot
 );
 };
 
-
-
 <hr />
 
 ```js
@@ -1079,7 +1105,7 @@ ReactDOM.render(
   document.getElementById(&quot;root&quot;)
 );
 
-````
+```
 
 <hr />
 <p>Renders a textarea component with a character limit.</p>
@@ -1231,7 +1257,7 @@ ReactDOM.render(
 
 </div>
 
-````js
+```js
 
 const Loader = ({ size }) =&gt; {
   return (
@@ -1252,15 +1278,13 @@ const Loader = ({ size }) =&gt; {
   );
 };
 
-
-
 <hr />
 
 ```js
 
 ReactDOM.render(&lt;Loader size={24} /&gt;, document.getElementById(&quot;root&quot;));
 
-````
+```
 
 <hr />
 <p>Renders a link formatted to send an email (<code>mailto:</code> link).</p>
@@ -1447,7 +1471,7 @@ ReactDOM.render(
 
 </div>
 
-````js
+```js
 
 const Modal = ({ isVisible = false, title, content, footer, onClose }) =&gt; {
   const keydownHandler = ({ key }) =&gt; {
@@ -1482,8 +1506,6 @@ return !isVisible ? null : (
 );
 };
 
-
-
 <hr />
 
 ```js
@@ -1506,7 +1528,7 @@ const App = () =&gt; {
 
 ReactDOM.render(&lt;App /&gt;, document.getElementById(&quot;root&quot;));
 
-````
+```
 
 <hr />
 <p>Renders a checkbox list that uses a callback function to pass its selected value/values to the parent component.</p>
@@ -1652,7 +1674,7 @@ ReactDOM.render(&lt;PasswordRevealer /&gt;, document.getElementById(&quot;root&q
 
 </div>
 
-````js
+```js
 
 const RippleButton = ({ children, onClick }) =&gt; {
   const [coords, setCoords] = React.useState({ x: -1, y: -1 });
@@ -1694,8 +1716,6 @@ style={{
 );
 };
 
-
-
 <hr />
 
 ```js
@@ -1705,7 +1725,7 @@ ReactDOM.render(
   document.getElementById(&quot;root&quot;)
 );
 
-````
+```
 
 <hr />
 <p>Renders an uncontrolled <code>&lt;select&gt;</code> element that uses a callback function to pass its value to the parent component.</p>
@@ -1815,7 +1835,7 @@ ReactDOM.render(
 
 </div>
 
-````js
+```js
 
 const Star = ({ marked, starId }) =&gt; {
   return (
@@ -1854,15 +1874,13 @@ marked={selection ? selection &gt;= i + 1 : rating &gt;= i + 1}
 );
 };
 
-
-
 <hr />
 
 ```js
 
 ReactDOM.render(&lt;StarRating value={2} /&gt;, document.getElementById(&quot;root&quot;));
 
-````
+```
 
 <hr />
 <p>Renders a tabbed menu and view component.</p>
@@ -1899,7 +1917,7 @@ ReactDOM.render(&lt;StarRating value={2} /&gt;, document.getElementById(&quot;ro
 
 </div>
 
-````js
+```js
 
 const TabItem = (props) =&gt; &lt;div {...props} /&gt;;
 
@@ -1937,8 +1955,6 @@ key={`tab-content-${props.index}`}
 );
 };
 
-
-
 <hr />
 
 ```js
@@ -1955,7 +1971,7 @@ ReactDOM.render(
   document.getElementById(&quot;root&quot;)
 );
 
-````
+```
 
 <hr />
 <p>Renders a tag input field.</p>
@@ -2030,7 +2046,7 @@ ReactDOM.render(
 
 </div>
 
-````js
+```js
 
 const TagInput = ({ tags }) =&gt; {
   const [tagData, setTagData] = React.useState(tags);
@@ -2067,8 +2083,6 @@ const TagInput = ({ tags }) =&gt; {
   );
 };
 
-
-
 <hr />
 
 ```js
@@ -2078,7 +2092,7 @@ ReactDOM.render(
   document.getElementById(&quot;root&quot;)
 );
 
-````
+```
 
 <hr />
 <p>Renders an uncontrolled <code>&lt;textarea&gt;</code> element that uses a callback function to pass its value to the parent component.</p>
@@ -2143,7 +2157,7 @@ ReactDOM.render(
 
 </div>
 
-````js
+```js
 
 const Toggle = ({ defaultToggled = false }) =&gt; {
   const [isToggleOn, setIsToggleOn] = React.useState(defaultToggled);
@@ -2160,15 +2174,13 @@ onChange={() =&gt; setIsToggleOn(!isToggleOn)}
 );
 };
 
-
-
 <hr />
 
 ```js
 
 ReactDOM.render(&lt;Toggle /&gt;, document.getElementById(&quot;root&quot;));
 
-````
+```
 
 <hr />
 <p>Renders a tooltip component.</p>
@@ -2206,7 +2218,7 @@ ReactDOM.render(&lt;Toggle /&gt;, document.getElementById(&quot;root&quot;));
 
 </div>
 
-````js
+```js
 
 const Tooltip = ({ children, text, ...rest }) =&gt; {
   const [show, setShow] = React.useState(false);
@@ -2228,8 +2240,6 @@ onMouseLeave={() =&gt; setShow(false)}
 );
 };
 
-
-
 <hr />
 
 ```js
@@ -2241,7 +2251,7 @@ ReactDOM.render(
   document.getElementById(&quot;root&quot;)
 );
 
-````
+```
 
 <hr />
 <p>Renders a tree view of a JSON object or array with collapsible content.</p>
@@ -2296,7 +2306,7 @@ ReactDOM.render(
 
 </div>
 
-````js
+```js
 
 const TreeView = ({
   data,
@@ -2347,8 +2357,6 @@ className={isToggled ? &quot;tree-element&quot; : &quot;tree-element collapsed&q
 );
 };
 
-
-
 <hr />
 
 ```js
@@ -2380,7 +2388,7 @@ ReactDOM.render(
   document.getElementById(&quot;root&quot;)
 );
 
-````
+```
 
 <hr />
 <p>Renders an uncontrolled <code>&lt;input&gt;</code> element that uses a callback function to inform its parent about value updates.</p>
@@ -3305,3 +3313,6 @@ ReactDOM.render(&lt;App /&gt;, document.getElementById(&quot;root&quot;));
 ```
 
 <hr />
+
+
+</details>
