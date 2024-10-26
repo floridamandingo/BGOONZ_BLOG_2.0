@@ -104,7 +104,7 @@ This line should be following on the very next line.
 
     markdown
 
-    [Help Builder Web Site](http://helpbuilder.west-wind.com/)
+    [Help Builder Web Site](https://helpbuilder.west-wind.com/)
 
 <a href="http://helpbuilder.west-wind.com/" class="markup--anchor markup--p-anchor">Help Builder Web Site</a>
 
@@ -159,7 +159,7 @@ You can also embed plain HTML markup into the page if you like. For example, if 
 </i> Refresh Page
 
 This text can be embedded into Markdown:
- Refresh Page
+Refresh Page
 
 ### Unordered Lists
 

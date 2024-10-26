@@ -138,7 +138,7 @@ abepithymia
 ....
 ```
 
-A great book for understanding the power of regular expressions is [Mastering Regular Expressions](http://shop.oreilly.com/product/9780596528126.do).
+A great book for understanding the power of regular expressions is [Mastering Regular Expressions](https://shop.oreilly.com/product/9780596528126.do).
 
 ## How to use extended regular expressions when searching
 
@@ -148,4 +148,3 @@ To use extended regular expressions use the `-e` option. The following line matc
 grep -v -e 'foo' -e 'bar'
 ```
 
-Note that in the GNU version of `grep` there is no difference in available functionality between basic and extended syntaxes.

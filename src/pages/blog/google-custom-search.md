@@ -4,8 +4,8 @@ template: post
 subtitle: Google search
 excerpt: Google
 date: 2022-06-06T20:55:39.767Z
-image: /blog/wartime-blog-cover-art-modified.png
-thumb_image: /blog/wartime-blog-cover-art-modified.png
+image: https://media.geeksforgeeks.org/wp-content/uploads/20200509200015/output.png
+thumb_image: https://media.geeksforgeeks.org/wp-content/uploads/20200509200015/output.png
 image_position: right
 author: src/data/authors/backup.yaml
 show_author_bio: true
@@ -26,7 +26,7 @@ Below is all the code you need to implement custom search on your website.
 
 ## [](https://github.localhost/#step-1)Step 1
 
-Copy and paste the HTML or Solodev Shortcode where you would like your search form to populate and [register your website with Google](http://cse.google.com/).
+Copy and paste the HTML or Solodev Shortcode where you would like your search form to populate and [register your website with Google](https://cse.google.com/).
 
 -   [HTML](https://github.localhost/#code1)
 -   [Solodev Shortcode](https://github.localhost/#code2)
@@ -65,4 +65,4 @@ Add the following includes to the header of your HTML file (or Solodev Shortcode
 
 With just a few lines of code you have provided site visitors the ability to search your entire site using the power of Google (and the help of Solodev) - Enjoy!
 
-
+[Source](https://www.solodev.com/blog/web-design/adding-google-custom-search-to-your-website.stml)
